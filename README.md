@@ -1,2 +1,2 @@
-# CRM_projects
+# CRM projects
 Some of my customer relationship management work.
